@@ -3,8 +3,8 @@ import java.sql.*;
 public class FetchEmployeeData {
     public static void main(String[] args) {
         String url = ""D:\Employee"";
-        String username = "your_username";
-        String password = "your_password";
+        String username = "adarsh_1901";
+        String password = "adarsh@2003";
         String query = "SELECT EmpID, Name, Salary FROM Employee";
 
         Connection connection = null;
